@@ -119,10 +119,4 @@ Before deploying to production, ensure:
 - [ ] Regular backups configured
 - [ ] Monitoring and logging in place
 
-## Contact
-
-For security concerns, contact: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
-
----
-
 Last Updated: October 2024
